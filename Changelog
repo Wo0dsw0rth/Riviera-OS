@@ -1,0 +1,6 @@
+Changelog
+
+26th Oct 23:08
+Added the build_env folder with the version-check.sh and prepare.sh files.
+version-check.sh is used to check for the presence of the necessary software and links for this build. Install and correct as necessary for your particular use case.
+prepare.sh file is ready to be edited. 
