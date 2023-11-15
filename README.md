@@ -5,7 +5,7 @@ This is my attempt at making my own Linux distro. Let me know if you're interest
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 [![GitHub Stars]()](https://github.com/your-username/your-repo/stargazers)
 
-Riviera OS is an open-source operating system project based on Debian/Ubuntu, designed to be user friendly for all technical abilities. I hope it can encourage more users to make the switch from Windows/MacOS to Linux, or at the very least try it out. I will combine my favourite parts from other distros into this and I strongly encourage suggestions and collobaration on this project.
+Riviera OS is an open-source operating system project based on Arch, designed to be user friendly for all technical abilities. I hope it can encourage more users to make the switch from Windows/MacOS to Linux, or at the very least try it out. I will combine my favourite parts from other distros into this and I strongly encourage suggestions and collobaration on this project.
 
 ## Table of Contents
 - [Features](#features)
